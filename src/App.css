@@ -1,0 +1,70 @@
+.navBar
+{
+    height: 64px;
+}
+.home-body
+{
+    background-color: #00071E;
+    height: 880px;
+    width: 1920px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.search-box
+{
+    width: 1115px;
+    height: 89px;
+    background-color: #B3A0EF;
+    border-radius: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bolder;
+}
+.search-button
+{
+    background-color: #C0CFF8;
+    width: 277px;
+    height: 58px;
+    border-radius: 10px;
+    margin-top: 40px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.error
+{
+    margin-top: 10px;
+    font-size: 40px;
+    color: #ca3c3c;
+    font-weight: bolder;
+}
+.anime-title
+{
+    font-size: 50px;
+    color: #B3A0EF;
+    font-weight: bolder;
+}
+.quote-generate
+{
+    background-color: #C0CFF8;
+    width: 377px;
+    height: 58px;
+    border-radius: 10px;
+    margin-top: 40px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.random-quote
+{
+    color: #C0CFF8;
+    margin-top: 40px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
